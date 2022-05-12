@@ -56,3 +56,15 @@
 
 
 
+### 참고 자료
+- https://nvidia-merlin.github.io/Transformers4Rec/main/getting_started.html
+- https://github.com/hyunjoonbok/Recommendation_System-PyTorch
+- https://github.com/khanhnamle1994/MetaRec
+- https://github.com/guoyang9/NCF
+- https://github.com/graytowne/caser_pytorch
+- https://github.com/cemoody/simple_mf
+- https://github.com/THUwangcy/ReChorus
+- https://github.com/maciejkula/spotlight
+- https://github.com/yoongi0428/RecSys_PyTorch
+
+
