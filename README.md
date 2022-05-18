@@ -54,7 +54,8 @@
 ## 3. dataset
 - https://grouplens.org/datasets/movielens/
 
-
+## 4. 추천 라이브러리
+- https://github.com/rixwew/pytorch-fm
 
 ### 참고 자료
 - https://nvidia-merlin.github.io/Transformers4Rec/main/getting_started.html

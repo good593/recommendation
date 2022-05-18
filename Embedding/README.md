@@ -1,0 +1,3 @@
+- https://jisoo-coding.tistory.com/30
+- https://themore-dont-know.tistory.com/5
+- https://zzaebok.github.io/knowledge_graph/recommender_system/KG_recommend/
