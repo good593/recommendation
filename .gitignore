@@ -11,3 +11,6 @@ data
 *.onnx
 # macbook
 .DS_Store
+# model
+*.pth
+*.pt 
