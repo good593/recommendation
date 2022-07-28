@@ -9,3 +9,11 @@
 
 ### 다중 분류
 - https://076923.github.io/posts/Python-pytorch-13/
+
+
+# DeepCTR-Torch
+- https://github.com/shenweichen/DeepCTR-Torch
+
+### examples
+- https://www.kaggle.com/code/leejunseok97/deepfm-deepctr-torch
+- https://www.kaggle.com/code/leejunseok97/deepfm-deepctr-torch
