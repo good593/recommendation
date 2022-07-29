@@ -53,9 +53,15 @@
 
 ## 3. dataset
 - https://grouplens.org/datasets/movielens/
+- https://goldberg.berkeley.edu/jester-data/
+- http://www2.informatik.uni-freiburg.de/~cziegler/BX/
 
 ## 4. 추천 라이브러리
 - https://github.com/rixwew/pytorch-fm
+
+## 5. 예제
+- https://data-newbie.tistory.com/817
+- https://www.kaggle.com/code/alsojmc/movie-recommender-systems/notebook
 
 ### 참고 자료
 - https://nvidia-merlin.github.io/Transformers4Rec/main/getting_started.html
